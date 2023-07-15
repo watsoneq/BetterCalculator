@@ -19,4 +19,4 @@ Interfejs składa się z kilku części:
 Najnowsze aktualizacje do programu są publikowane na GitHubie. Aby zaaktualizować program należy pobrać najnowszą wersję. Można również usunąć poprzednią wersję.
 
 ## 4. Lista wersji:
-- [BetterCalculator]()
+- [BetterCalculator 1.0](https://github.com/watsoneq/BetterCalculator/releases/tag/1.0)
